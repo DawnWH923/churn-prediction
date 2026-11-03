@@ -1,5 +1,7 @@
 # 电商用户流失预测与分群分析
 
+[![CI](https://github.com/DawnWH923/churn-prediction/actions/workflows/ci.yml/badge.svg)](https://github.com/DawnWH923/churn-prediction/actions/workflows/ci.yml)
+
 基于 RFM 特征与机器学习模型，预测电商用户流失概率，并通过 K-Means 聚类做用户分群，支撑精细化运营。
 
 ## 数据说明（诚实声明）
